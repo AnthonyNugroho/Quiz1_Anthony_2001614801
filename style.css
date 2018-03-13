@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+#table{
+  text-align: center;
+  border: solid 1pt white;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+#logo{
+  text-align: center;
+}
+
+li.menu{
+  width: 30%;
+  display: inline;
+  float: right;
+  text-decoration:none;
+}
+
+#logout{
+  float:right; 
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+  color: white;
+}
